@@ -1,0 +1,21 @@
+.navys{
+  background: gray;
+  height: 5vh;
+  padding: .8rem 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-weight: bold;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+li{
+margin-left: 1rem;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}

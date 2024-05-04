@@ -1,0 +1,15 @@
+.the-home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    color: white;
+    font-size: 2rem;
+}
+
+.info-code{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

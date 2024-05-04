@@ -1,0 +1,15 @@
+.form-input{
+    padding: .5rem 5rem .5rem 1rem;
+}
+.form-i{
+    position: relative;
+}
+
+form button{
+    margin: 1rem 0;
+}
+.form-compl{
+    display: grid;
+    align-content: center;
+    justify-items: center;
+}
