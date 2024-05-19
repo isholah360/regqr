@@ -9,6 +9,7 @@ function Navbar() {
         <div className="uls">
             <ul>
                 <Link to="/"><li>Home</li></Link>
+                <Link to="/gui"><li>Gui</li></Link>
                 <Link to="/register"><li>Register</li></Link>
             </ul>
         </div>
